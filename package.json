@@ -1,0 +1,11 @@
+{
+  "name": "finlite-workspace-root",
+  "private": true,
+  "scripts": {
+    "dev": "cd finlite-wise-path && npm run dev",
+    "install": "cd finlite-wise-path && npm install",
+    "build": "cd finlite-wise-path && npm run build",
+    "lint": "cd finlite-wise-path && npm run lint",
+    "test": "cd finlite-wise-path && npm run test"
+  }
+}
